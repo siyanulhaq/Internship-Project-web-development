@@ -9,7 +9,6 @@ Frontend-focused internship project collection covering foundational web develop
 ## Demo
 ![Internship Project Demo](siyan%20intern/demo.gif)
 
-> Replace `siyan intern/demo.gif` with a screen-recorded demo GIF.
 
 ## Included Work
 - Portfolio-style multi-page site
