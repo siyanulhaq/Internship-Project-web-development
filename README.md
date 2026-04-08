@@ -1,38 +1,26 @@
 # Internship Project - Web Development
 
-A collection of internship-phase frontend projects focused on core web development fundamentals.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+
+Frontend-focused internship project collection covering foundational web development and JavaScript interaction patterns.
+
+## Demo
+![Internship Project Demo](siyan%20intern/demo.gif)
+
+> Replace `siyan intern/demo.gif` with a screen-recorded demo GIF.
 
 ## Included Work
-- Multi-page static website prototypes
-- Interactive calculator implementation
-- Form handling and UI exercises
-- JavaScript-based DOM interaction experiments
+- Portfolio-style multi-page site
+- Calculator implementation
+- Form UI and validation practice
+- JavaScript DOM interaction exercises
 
-## Tech Stack
-- HTML5
-- CSS3
-- JavaScript
+## Run Locally
+Open `siyan intern/index.html` in your browser.
 
-## Repository Structure
-```text
-.
-|-- README.md
-`-- siyan intern/
-    |-- index.html
-    |-- calculator.html
-    |-- form.html
-    |-- script.js
-    |-- script1.js
-    |-- style.css
-    |-- style1.css
-    `-- style2.css
-```
-
-## Learning Outcomes
-- Page layout and styling fundamentals
-- DOM manipulation and event handling
-- Structuring small frontend projects
-
-## Author
-Siyan Ul Haq  
-GitHub: https://github.com/siyanulhaq
+## Resume Bullets
+- Built multiple frontend mini-projects during internship to strengthen HTML, CSS, and JavaScript fundamentals.
+- Implemented interactive UI elements, form workflows, and DOM-driven logic across several pages.
+- Structured and shipped a practical web project portfolio demonstrating steady foundational growth.
